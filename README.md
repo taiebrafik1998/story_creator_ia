@@ -24,7 +24,7 @@ To run the app locally, follow these steps:
 
  Clone the repository:
 
-    ```bash
+    ```
     git clone https://github.com/taiebrafik1998/story_creator_ia.git
     ```
 
@@ -32,12 +32,12 @@ Navigate to the project
 
 Install the required dependencies:
 
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
 run this command 
 
-```bash
+```
     docker run -d -v ollama:/root/.ollama -p 9004:9004 --name ollama ollama/ollama
     docker exec -it ollama ollama run llama2
     ```
@@ -46,7 +46,7 @@ run this command
 
 To run the app:
 
-```bash
+```
 streamlit run app.py
 ```
 
@@ -64,7 +64,7 @@ The app relies on the following libraries:
 
 ## huggingFace repo
 
-You can test the app [ici](https://huggingface.co/spaces/rafik-taieb98/story_telling) on the Hugging Face Spaces platform.
+You can test the app [huggingface.co](https://huggingface.co/spaces/rafik-taieb98/story_telling) on the Hugging Face Spaces platform.
 
 
 
