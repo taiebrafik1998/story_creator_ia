@@ -4,7 +4,7 @@ This web application allows users to upload images containing animals, food plat
 
 ## overview
 
-The app utilizes computer  models for image to text  detection (Salesforce/blip-image-captioning-large)  to extract text from the images. add to that, it employs a  general model that create a fun storry to convert the recognized text into audio, providing an accessible user experience.
+The app utilizes computer  models for image to text  detection (Salesforce/blip-image-captioning-large)  to generat text from the images. add to that, it employs a  general model that create a fun storry for childreen .
 
 ## screen shoot of app
 <img width="924" alt="first" src="https://github.com/taiebrafik1998/story_creator_ia/assets/84631421/8e908ff5-f159-4303-ab40-3ec5397d43e9">
@@ -42,9 +42,8 @@ run this command
     docker exec -it ollama ollama run llama2
     ```
 
-## Usage
-
-To run the app:
+## Runing app
+the application use stream lite so to run it you will need to:
 
 ```
 streamlit run app.py
@@ -70,13 +69,6 @@ You can test the app [huggingface.co](https://huggingface.co/spaces/rafik-taieb9
 
 
 ---
-title: Story Telling
-emoji: 🌍
-colorFrom: red
-colorTo: blue
-sdk: streamlit
-sdk_version: 1.32.2
-app_file: app.py
-pinned: false
+
 ---
 
