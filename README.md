@@ -8,9 +8,9 @@ The app utilizes computer  models for image to text  detection (Salesforce/blip-
 
 ## screen shoot of app
 <img width="924" alt="first" src="https://github.com/taiebrafik1998/story_creator_ia/assets/84631421/8e908ff5-f159-4303-ab40-3ec5397d43e9">
-#### add image
+
 <img width="406" alt="second" src="https://github.com/taiebrafik1998/story_creator_ia/assets/84631421/9ca525bb-c99d-4875-8b11-a2f9e202c403">
-#
+
 
 ## Features
 
