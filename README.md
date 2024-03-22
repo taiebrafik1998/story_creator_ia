@@ -1,6 +1,7 @@
 # Story for children ia App
 
 This web application allows users to upload images containing animals, food plates,dinosaur. Normally it will allow you to detect the content of image and generate legend and a fun storry for children.
+<img width="356" alt="capture" src="https://github.com/taiebrafik1998/story_creator_ia/assets/84631421/61317e0c-103c-4200-a353-a8d5a298db3a">
 
 ## overview
 
